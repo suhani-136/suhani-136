@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suhani Taksande</h1>
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/187a51c8-8bb2-4150-9e25-8e339ba94c20" />
+<div align="center"><img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/82522255-c6b8-4cf0-a8d5-750bda47171c" /> </div>
+
 
 <h3 align="center">A passionate artificial intelligence and machine learner from India</h3>
 
